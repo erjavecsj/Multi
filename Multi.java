@@ -7,7 +7,7 @@ public class multi {
 
 
 
-		print(snakeDraft(10, 3));
+		// print(snakeDraft(10, 3));
 
 	}
 
@@ -39,14 +39,14 @@ public class multi {
 		return draft;
 	}
 
-	public static int[][] rectangularize(int[] b, int rows, int col) {
-		int value = 0;
-		for (int i=0; i<rows; i++) {
+	// public static int[][] rectangularize(int[] b, int rows, int col) {
+	// 	int value = 0;
+	// 	for (int i=0; i<rows; i++) {
 			
-			}		
-		}
-		return value;
-	}
+	// 		}		
+	// 	}
+	// 	return value;
+	// }
 
 	// public static int sumRow(int[][] a){
 	// 	int sum = 0;
